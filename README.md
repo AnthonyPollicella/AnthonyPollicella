@@ -1,7 +1,11 @@
 # About me
 My name is Anthony Pollicella and this is my **WMU** github account.<br/>
 This account is dedicated to my school work and will feature those projects.
-
+> ### More about me
+> * 🏂 Snowboarder
+> * 💻 CS major
+> * ⛺ Enjoy being in nature
+> * 🎮 Video games
 ![alt text](WMUlogo.png)
 <!--
 **AnthonyPollicella/AnthonyPollicella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
