@@ -3,6 +3,7 @@ My name is Anthony Pollicella and this is my **WMU** github account.<br/>
 This account is dedicated to my school work and will feature those projects.
 
 <img scr="images/WMUlogo.png" alt="" />
+![alt text](images/WMUlogo.png)
 <!--
 **AnthonyPollicella/AnthonyPollicella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
