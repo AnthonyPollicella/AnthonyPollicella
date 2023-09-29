@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#About me
+# About me
 My name is Anthony Pollicella and this is my **WMU** github account.
 This account is dedicated to my school work and will feature those projects.
 ![alt text](WMUlogo.png)
