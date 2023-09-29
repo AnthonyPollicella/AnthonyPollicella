@@ -6,6 +6,7 @@ This account is dedicated to my school work and will feature those projects.
 > * 💻 CS major
 > * ⛺ Enjoy being in nature
 > * 🎮 Video games
+
 ![alt text](WMUlogo.png)
 <!--
 **AnthonyPollicella/AnthonyPollicella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
